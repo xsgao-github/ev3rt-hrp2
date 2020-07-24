@@ -38,6 +38,8 @@ OBJ/
 
 # cfg
 cfg/cfg/cfg
+# download from https://www.toppers.jp/download.cgi/cfg-mingw-static-1_9_5.zip
+cfg/cfg/cfg.exe
 
 # Exceptions
 !libusblib.a
