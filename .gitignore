@@ -43,3 +43,4 @@ cfg/cfg/cfg.exe
 
 # Exceptions
 !libusblib.a
+sdk
